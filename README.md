@@ -47,5 +47,25 @@ Recreated the application using Lovable and AviationStack.
 - TypeScript
 - Web Application
 
+- ## Live Demo
+
+Website:
+https://swedavia-reverse-engineering.lovable.app
+
+## Project Summary
+
+This project reverse engineered a flight information application originally built around Swedavia FlightInfo API v2.
+
+The application was analyzed, its inputs and logic were identified, and a similar application was recreated using GenAI tools. The recreated version uses AviationStack as the live flight data provider while maintaining the same functionality and interface structure.
+
+Features:
+- Arrivals
+- Departures
+- Flight Search
+- API Health Check
+- Destination Statistics
+
+The project demonstrates reverse engineering, system analysis, API integration, and application recreation.
+
 ## Author
 Rida Akbar
